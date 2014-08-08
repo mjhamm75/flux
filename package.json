@@ -17,7 +17,6 @@
     "vinyl-source-stream": "^0.1.1"
   },
   "dependencies": {
-    "es6-promise": "^1.0.0",
-    "jquery": "^2.1.1"
+    "es6-promise": "^1.0.0"
   }
 }
