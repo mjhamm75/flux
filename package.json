@@ -1,0 +1,23 @@
+{
+  "name": "flux",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Hamm",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^5.9.1",
+    "gulp": "^3.8.7",
+    "gulp-concat": "^2.3.4",
+    "react": "^0.11.1",
+    "reactify": "^0.14.0",
+    "vinyl-source-stream": "^0.1.1"
+  },
+  "dependencies": {
+    "es6-promise": "^1.0.0",
+    "jquery": "^2.1.1"
+  }
+}
